@@ -1,0 +1,13 @@
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula19Dojo2\obj\Debug\netcoreapp3.1\Aula19Dojo2.csprojAssemblyReference.cache
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula19Dojo2\obj\Debug\netcoreapp3.1\Aula19Dojo2.AssemblyInfoInputs.cache
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula19Dojo2\obj\Debug\netcoreapp3.1\Aula19Dojo2.AssemblyInfo.cs
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula19Dojo2\obj\Debug\netcoreapp3.1\Aula19Dojo2.csproj.CoreCompileInputs.cache
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula19Dojo2\bin\Debug\netcoreapp3.1\Aula19Dojo2.exe
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula19Dojo2\bin\Debug\netcoreapp3.1\Aula19Dojo2.deps.json
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula19Dojo2\bin\Debug\netcoreapp3.1\Aula19Dojo2.runtimeconfig.json
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula19Dojo2\bin\Debug\netcoreapp3.1\Aula19Dojo2.runtimeconfig.dev.json
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula19Dojo2\bin\Debug\netcoreapp3.1\Aula19Dojo2.dll
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula19Dojo2\bin\Debug\netcoreapp3.1\Aula19Dojo2.pdb
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula19Dojo2\obj\Debug\netcoreapp3.1\Aula19Dojo2.dll
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula19Dojo2\obj\Debug\netcoreapp3.1\Aula19Dojo2.pdb
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula19Dojo2\obj\Debug\netcoreapp3.1\Aula19Dojo2.genruntimeconfig.cache
