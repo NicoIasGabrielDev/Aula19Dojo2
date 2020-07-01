@@ -8,7 +8,7 @@ namespace Aula19Dojo2
         {
             IngressoVIP bilhete = new IngressoVIP();
             bilhete.Valor=10f;
-            bilhete.ValorAdicional=20.5f;
+            bilhete.ValorAdicional=10.5f;
             bilhete.ImprimirValor();
             bilhete.ValorVip();
 
